@@ -36,6 +36,34 @@
       "[/] Переделан TargetHUD",
       "[/] Фикс биндов",
       "[/] Фикс SmallModel"
+    ],
+    "Aurum Free v0.4": [
+      "[+] Лоадер",
+      "[+] Jesus (FT)",
+      "[+] CordDropper",
+      "[+] AutoVulcan",
+      "[+] ElytraBounce",
+      "[+] VulcanESP",
+      "[+] AntiFlag",
+      "[+] NoFall (FT)",
+      "[+] MoveUpgrade",
+      "[+] Optimizer",
+      "[+] TridentAura",
+      "[+] Новые темы (Кровавый, Тихие мечты, Косатка)",
+      "[+] Новые Particles (Звёздочки)",
+      "[+] DragonFly",
+      "[+] FullBright",
+      "",
+      "[/] AutoPotion (Добавлены зелья исцеления)",
+      "[/] AutoTotem (Добавлена проверка элитр)",
+      "[/] Переделан WaterSpeed, добавлены новые моды (Funtime, HolyWorld, StormHVH)",
+      "[/] ArrayList (переделан под все элементы худа)",
+      "[/] KillAura улучшена ротация \"RW\"",
+      "[/] NoSlow улучшен мод \"RW\" (меньше флагает)",
+      "",
+      "[-] AuctionHelper",
+      "[-] Тема \"Рассвет\"",
+      "[-] Ротации в киллауре (FT, Резкая)"
     ]
   }
 }
